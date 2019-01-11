@@ -10,6 +10,7 @@
     "datejs": "^1.0.0-rc3",
     "debug": "~2.6.9",
     "ejs": "~2.5.7",
+    "event-stream": "^3.3.4",
     "express": "~4.16.0",
     "http-errors": "~1.6.2",
     "mongoose": "^5.3.4",
